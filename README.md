@@ -21,7 +21,7 @@
   <a href = "mailto:jv.ribe.moraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ribeiro-de-moraes-a13409208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<img src="https://pa1.narvii.com/6814/7e305ec4c0d5585dad8a6b547864b5a5dc57b375_hq.gif"></img>
+<img src="https://2.bp.blogspot.com/-EiuIzvfJsI0/WTLNWu7I8iI/AAAAAAAA99k/Uh2yrlzFKJAW8Ix5u86mlmHBC2vQwBQxgCLcB/s1600/babyg.gif"></img>
     
   
 </div>
