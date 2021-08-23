@@ -21,7 +21,7 @@
   <a href = "mailto:jv.ribe.moraes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ribeiro-de-moraes-a13409208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fmarvel-comics-amino-br%2Fpage%2Fuser%2Fbaby-groot%2FMQpM_xdmuQf2EnZ4D7VoVQD2JKQ8lZPnqaP&psig=AOvVaw1iPh9yrrJ65yQFdUC2fksi&ust=1629839677495000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMDms4uIyPICFQAAAAAdAAAAABAT"></img>
+<img src="https://pa1.narvii.com/6814/7e305ec4c0d5585dad8a6b547864b5a5dc57b375_hq.gif"></img>
     
   
 </div>
