@@ -1,6 +1,6 @@
 ## Olá, Eu sou o João Vitor 
 
-- 🔭 E estou começando a aprenteder programação 
+- 🔭 E estou começando a aprender programação 
 
 <div>
   <a href="https://github.com/Su66us">
