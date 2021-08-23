@@ -1,3 +1,3 @@
-## Olá, Eu me chamo João Vitor 
+## Olá, Eu sou o João Vitor 
 
 - 🔭 E estou começando a aprenteder programação 
