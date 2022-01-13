@@ -1,7 +1,5 @@
 ## Olá, Eu sou o João Vitor 
 
-- 🔭 E estou começando a aprender programação 
-
 <div style="color: linen; border-color: linen">
   <a href="https://github.com/Su66us">
   <img height="160em"   src="https://github-readme-stats.vercel.app/api?username=su66us&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
