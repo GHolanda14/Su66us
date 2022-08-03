@@ -1,4 +1,4 @@
-## Olá, Eu sou o João Vitor 
+## Hi, i'm João
 
 <div style="color: linen; border-color: linen">
   <a href="https://github.com/Su66us">
